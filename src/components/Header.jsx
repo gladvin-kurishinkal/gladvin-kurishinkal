@@ -29,7 +29,7 @@ const Header = () => {
         }}>
             <div className="container" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                 <div className="logo" style={{ fontSize: '1.5rem', fontWeight: 'bold', color: 'var(--accent-color)' }}>
-                    Gladvin Kurishinkal.......
+                    Gladvin Kurishinkal
                 </div>
                 <nav>
                     <ul style={{ display: 'flex', gap: '30px' }}>
